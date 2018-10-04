@@ -3,7 +3,7 @@ package com.srini;
 @FunctionalInterface
 interface intera
 {
-	public void m1();
+	public void m11();
 
 	default void m2() {
 		System.out.println("Default Method of Interface....");
@@ -17,7 +17,7 @@ interface intera
 
 public class TestLambda {
 	public static void main(String[] args) {
-
+		
 	}
 	
 }
