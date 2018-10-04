@@ -4,7 +4,7 @@ package com.srini;
 interface intera
 {
 
-	public void m1114();
+	public void m11145();
 
 	default void m2() {
 		System.out.println("Default Method of Interface....");
