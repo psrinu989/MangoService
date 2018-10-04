@@ -3,7 +3,7 @@ package com.srini;
 @FunctionalInterface
 interface intera
 {
-	public void m11();
+	public void m111();
 
 	default void m2() {
 		System.out.println("Default Method of Interface....");
