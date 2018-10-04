@@ -3,6 +3,7 @@ package com.srini;
 @FunctionalInterface
 interface intera
 {
+
 	public void m1114();
 
 	default void m2() {
